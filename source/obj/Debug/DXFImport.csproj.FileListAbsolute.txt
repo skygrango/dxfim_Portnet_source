@@ -1,0 +1,7 @@
+D:\dxfimportnet_source\dxfimportnetopensource\source\obj\Debug\DXFImportForm.Form1.resources
+D:\dxfimportnet_source\dxfimportnetopensource\source\obj\Debug\DXFImport.csproj.GenerateResource.Cache
+D:\dxfimportnet_source\dxfimportnetopensource\source\bin\Debug\DXFImport.exe
+D:\dxfimportnet_source\dxfimportnetopensource\source\bin\Debug\DXFImport.pdb
+D:\dxfimportnet_source\dxfimportnetopensource\source\obj\Debug\DXFImport.exe
+D:\dxfimportnet_source\dxfimportnetopensource\source\obj\Debug\DXFImport.pdb
+D:\dxfimportnet_source\dxfimportnetopensource\source\obj\Debug\DXFImport.csprojResolveAssemblyReference.cache
